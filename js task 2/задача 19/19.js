@@ -9,3 +9,10 @@ if (num[0] == "1") {
 } else {
     alert('нет');
 }
+
+// OR
+if (str[0] == "1" || str[0] == "2" || str[0] == "3") {
+    alert("Да");
+} else {
+    alert("Нет");
+}
