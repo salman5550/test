@@ -1,0 +1,101 @@
+. {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgba(15, 12, 12, 0.808);
+    width: 1200px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.header {
+    width: 1210px;
+    height: 100px;
+    background-color: rgba(80, 76, 76, 0.829);
+    margin-top: 100px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.head {
+    background-color: rgb(89, 149, 201);
+    text-align: center;
+    width: 150px;
+    border-style: dotted;
+}
+
+.head1 {
+    ] border-radius: 180ex;
+    font-size: 50px;
+    line-height: 20px;
+    text-align: center;
+    color: aliceblue;
+    border-box: ;
+}
+
+.menu {
+    width: 1210px;
+    height: 50px;
+    display: flex;
+    text-align: center;
+    border: 1px solid #000000;
+}
+
+.menu1 {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(81, 175, 212);
+    text-align: center;
+}
+
+.menu2 {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(94, 197, 80);
+    margin-left: 2px;
+}
+
+.menu3 {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(174, 196, 50);
+    margin-left: 2px;
+}
+
+.menu4 {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(3, 1, 139);
+    margin-left: 2px;
+}
+
+.menu5 {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(230, 157, 98);
+    margin-left: 2px;
+}
+
+.menu6 {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(212, 81, 184);
+    margin-left: 2px;
+}
+
+.siderbar1 {
+    margin-left: 10px;
+}
+
+.sider {
+    width: 200px;
+    height: 100px;
+    background-color: brown;
+    display: flex;
+    margin-top: 3px;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px solid #000000;
+}
