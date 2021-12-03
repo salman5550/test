@@ -21,7 +21,7 @@ resu.addEventListener('click', function(event) {
         }
         if (d == 0) {
 
-            let x = (-b + Math.sqrt(d)) / 2 * a;
+            let x = (-b) / 2 * a;
             alert('x = ' + x);
 
 
